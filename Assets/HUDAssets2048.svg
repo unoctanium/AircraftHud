@@ -16,7 +16,7 @@
    id="svg6338"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="HUDAssets2048.svg"
-   inkscape:export-filename="G:\UE4\prj\AircraftHud\Content\AircraftHud\HUDAsset2048Digits.png"
+   inkscape:export-filename="G:\UE4\prj\AircraftHud\Content\AircraftHud\HUDAsset2048DigitsMask.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -36,11 +36,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22925728"
-     inkscape:cx="198.7836"
-     inkscape:cy="933.83814"
+     inkscape:zoom="0.45851456"
+     inkscape:cx="1041.0986"
+     inkscape:cy="860.66956"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer9"
      showgrid="true"
      units="px"
      inkscape:showpageshadow="false"
@@ -1547,5 +1547,27 @@
          x="141.59935"
          y="329.08203"
          style="font-size:16.93333244px;fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">8</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="DigitsMask"
+     style="display:inline">
+    <rect
+       transform="translate(0,406.39999)"
+       y="-135.7312"
+       x="338.13678"
+       height="16.933332"
+       width="59.796555"
+       id="rect1075"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99439573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       transform="translate(0,406.39999)"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99438399;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1078"
+       width="59.795139"
+       height="16.933332"
+       x="143.93333"
+       y="-135.7312" />
   </g>
 </svg>
